@@ -1,4 +1,4 @@
-# 麦本本-大麦5
+# 麦本本-大麦5 EFI
 ```
 Hackintosh_MaiBenBen_Damai5_EFI
 除去WiFi、独显（既GTX1050）无解，其他算是完美了
