@@ -6,13 +6,13 @@ Hackintosh_MaiBenBen_Damai5_EFI
 声卡、以太网、蓝牙、键鼠、触摸板、摄像头 均可放心食用
 ```
 # 一些关于黑苹果和 macOS 的参考网站
-[黑苹果安装学院](https://github.com/huangyz0918/Hackintosh-Installer-University/blob/master/README-CN.md)
-[黑果小兵](https://blog.daliansky.net)
-[OSx86 Project](https://www.osx86project.org)
-[Tonymacx86](https://www.tonymacx86.com)
-[hackintosh.com](https://hackintosh.com)
-[9to5mac](https://9to5mac.com)
-[Rehabman Github](https://github.com/RehabMan)
-[Rehabman Bitbucket](https://bitbucket.org/RehabMan)
-[PCbeta](http://mac.pcbeta.com)
-[iMacHK](https://imac.hk)
+* [黑苹果安装学院](https://github.com/huangyz0918/Hackintosh-Installer-University/blob/master/README-CN.md)
+* [黑果小兵](https://blog.daliansky.net)
+* [OSx86 Project](https://www.osx86project.org)
+* [Tonymacx86](https://www.tonymacx86.com)
+* [hackintosh.com](https://hackintosh.com)
+* [9to5mac](https://9to5mac.com)
+* [Rehabman Github](https://github.com/RehabMan)
+* [Rehabman Bitbucket](https://bitbucket.org/RehabMan)
+* [PCbeta](http://mac.pcbeta.com)
+* [iMacHK](https://imac.hk)
